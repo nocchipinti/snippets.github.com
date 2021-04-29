@@ -1,0 +1,6 @@
+<!-- SUBSTITUTE /PICTURE WITH THE RELATIVE ADDRESS OF THE BACKGORUND PICTURE, AND VIDEO-URL WITH THE URL OF THE MP4 VIDEO -->
+<div>
+<style type="text/css">video{object-fit: cover;}
+</style>
+<video class="video-dialog--video track-play-event"  controls="controls" controlslist="nodownload" disablepictureinpicture="" poster="/PICTURE" preload="metadata"><source src="https://VIDEO-URL" type="video/mp4" /></video>
+</div>
