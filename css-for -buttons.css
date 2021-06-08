@@ -1,6 +1,6 @@
 <!-- USE CLASS .btnnik FOR HYPERLINKS -->
 <style>
-.btnnik {
+.section-content--content .btnnik {
 font-family: "gotham-bold", "gotham-book", Arial, Georgia, "Times New Roman" !important;
   background-color: #e4002b !important;
   border: 1px solid white !important;
@@ -14,7 +14,7 @@ font-family: "gotham-bold", "gotham-book", Arial, Georgia, "Times New Roman" !im
 text-decoration: none !important;
 }
  
-.btnnik:hover {
+.section-content--content .btnnik:hover {
   background-color: #ffffff !important;
   color: #e4002b !important;
   border: 1px solid #e4002b !important;
