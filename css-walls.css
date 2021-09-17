@@ -1,0 +1,41 @@
+.checkin-message {
+    font-family: sans-serif;
+    display: block;
+    overflow: hidden;
+    padding: 15px 0px 15px 0px;
+}
+
+.checkin-user-name {
+    font-family: sans-serif;
+}
+
+.checkin-timestamp {
+    font-family: sans-serif;
+}
+
+.checkin {
+    position: relative;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-size: auto;
+    border-radius: 0px;
+    font-size: 14px;
+    line-height: 1.28;
+}
+
+.hide-header .socialwall_container {
+    margin: 0;
+}
+
+.checkin-wrapper {
+    margin: 0;
+    padding: 0px 10px 50px 10px;
+}
+
+.checkin-user.clearfix {
+    padding: 15px 0px 15px 0px;
+    position: relative;
+}
+body {
+    font-family: sans-serif;
+}
